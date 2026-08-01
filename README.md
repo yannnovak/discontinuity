@@ -9,7 +9,7 @@ This repository contains the encrypted text featured on the album cover for *Dis
 To decrypt it:
 
 1. Visit: [https://encrypt-online.com/decrypt](https://encrypt-online.com/decrypt)
-2. Select **aes-256-cbc** as the encryption method (this should be the default)
+2. Select **AES-256-CBC (legacy compatibility)** as the encryption method
 3. Paste the contents of `encrypted-text.txt` into the input field
 4. Use the album title — **`Discontinuity`** (capital <kbd>D</kbd>) — as the passphrase
 5. Click **Decrypt**
@@ -26,7 +26,6 @@ To decrypt it:
 ## Listen or Buy
 
 - **Bandcamp**: [Buy or stream on Bandcamp](https://yannnovak.bandcamp.com/album/discontinuity)
-- **Streaming**: Available on all major platforms (TIDAL, Apple Music, Spotify, etc.)
 - **Label**: [Room40](https://room40.org)
 
 ## About the Project
