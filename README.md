@@ -38,6 +38,6 @@ discontinuity/
 ├── assets/
 │   ├── cover.jpg
 │   └── thumbnail.jpg
-├── README.md
-└── encrypted-text.txt
+├── encrypted-text.txt
+└── README.md
 ```
