@@ -26,6 +26,7 @@ To decrypt it:
 ## Listen or Buy
 
 - **Bandcamp**: [Buy or stream on Bandcamp](https://yannnovak.bandcamp.com/album/discontinuity)
+- **Streaming**: Available on all major platforms (TIDAL, Apple Music, Spotify, etc.)
 - **Label**: [Room40](https://room40.org)
 
 ## About the Project
